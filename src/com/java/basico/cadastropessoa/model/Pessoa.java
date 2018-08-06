@@ -11,6 +11,8 @@ public class Pessoa {
         this.idade = idade;
     }
 
+    public Pessoa(){}
+
     public int getId() {
         return id;
     }
